@@ -1,0 +1,6 @@
+browser: firefox
+chromeDriverExePath: C:\AutomationCatalogue\Drivers\Chrome\chromedriver_win32\chromedriver.exe
+url: {orangeHRMUrl: 'https://testcatalogue-trials7501.orangehrmlive.com/', demoWebshopUrl: 'http://demowebshop.tricentis.com/'}
+applications:
+  orangeHRM: {orangeHRM_userName: Admin, orangeHRM_password: Admin@123}
+  demoWebShopURL: {demoWebshop_username: aarosagarch@gmail.com, demoWebshop_password: Admin@123}
