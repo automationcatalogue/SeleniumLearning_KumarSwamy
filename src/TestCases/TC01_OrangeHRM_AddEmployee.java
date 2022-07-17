@@ -13,7 +13,7 @@ import java.util.List;
 
 public class TC01_OrangeHRM_AddEmployee {
     public static void main(String[] args) throws Exception{
-        String dob="9-June-1986";
+        String dob="10-July-1986";
 
         System.setProperty("webdriver.chrome.driver","C:\\AutomationCatalogue\\Drivers\\Chrome\\chromedriver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
